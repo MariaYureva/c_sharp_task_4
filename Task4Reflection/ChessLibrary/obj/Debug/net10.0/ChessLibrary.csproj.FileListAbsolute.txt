@@ -1,0 +1,11 @@
+C:\Users\manun\Desktop\6 sem\С#\c_sharp_task_4\Task4Reflection\ChessLibrary\bin\Debug\net10.0\ChessLibrary.deps.json
+C:\Users\manun\Desktop\6 sem\С#\c_sharp_task_4\Task4Reflection\ChessLibrary\bin\Debug\net10.0\ChessLibrary.dll
+C:\Users\manun\Desktop\6 sem\С#\c_sharp_task_4\Task4Reflection\ChessLibrary\bin\Debug\net10.0\ChessLibrary.pdb
+C:\Users\manun\Desktop\6 sem\С#\c_sharp_task_4\Task4Reflection\ChessLibrary\obj\Debug\net10.0\ChessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manun\Desktop\6 sem\С#\c_sharp_task_4\Task4Reflection\ChessLibrary\obj\Debug\net10.0\ChessLibrary.AssemblyInfoInputs.cache
+C:\Users\manun\Desktop\6 sem\С#\c_sharp_task_4\Task4Reflection\ChessLibrary\obj\Debug\net10.0\ChessLibrary.AssemblyInfo.cs
+C:\Users\manun\Desktop\6 sem\С#\c_sharp_task_4\Task4Reflection\ChessLibrary\obj\Debug\net10.0\ChessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\manun\Desktop\6 sem\С#\c_sharp_task_4\Task4Reflection\ChessLibrary\obj\Debug\net10.0\ChessLibrary.dll
+C:\Users\manun\Desktop\6 sem\С#\c_sharp_task_4\Task4Reflection\ChessLibrary\obj\Debug\net10.0\refint\ChessLibrary.dll
+C:\Users\manun\Desktop\6 sem\С#\c_sharp_task_4\Task4Reflection\ChessLibrary\obj\Debug\net10.0\ChessLibrary.pdb
+C:\Users\manun\Desktop\6 sem\С#\c_sharp_task_4\Task4Reflection\ChessLibrary\obj\Debug\net10.0\ref\ChessLibrary.dll
